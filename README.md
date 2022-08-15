@@ -8,8 +8,9 @@ To install the libraries, copy, paste and run the following on your terminal: "p
 To test matplotlib, copy, paste and run: "import matpolib"
 If you do not see any error messages, the libraries have been installed you can now move on to the project.
 
-# data-visualizasion-with-python
-Employing mathematical plotting library to create simple plots such as graphs and data plots. 
+# Data-visualizasion-with-python
+Employing mathematical plotting library to create simple plots such as graphs and data plots.
+Save the simple Graph practices in a separte directory in my project directory.
 Create more interesting data sets based on random walks.
 Create a package called pygal that focuses on creating visualizations that well on digital devices.
 Emphasizing and resizing elements that users work with on the visualization.
