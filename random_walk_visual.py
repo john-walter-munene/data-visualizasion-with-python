@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 from random_walk import RandomWalk
 
-# Keep making new walks as long at the program is active/
+# Keep making new walks as long at the program is active
 while True:
     
     # Make a random walk and plot the points
