@@ -1,4 +1,3 @@
-import pygal
 import pygal_maps_world.maps as pwm
 
 wm = pwm.World()

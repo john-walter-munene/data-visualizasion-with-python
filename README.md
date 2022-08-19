@@ -15,3 +15,15 @@ Create more interesting data sets based on random walks.
 Create a package called pygal that focuses on creating visualizations that well on digital devices.
 Emphasizing and resizing elements that users work with on the visualization.
 Explore what happens when you roll a dice in various ways using pygal. 
+Extracted specaific data from real world population and created visualizations 
+The data is based on "Population_data.json" files, created visuals for the specific year 2010
+
+# Road map for data visualization easy? Let's work with APIs
+A program that generates visualizasion based on data we recieve
+Used web API to automatically request specific information from a website
+Generate visualizations with the requested data
+We will do a visualizations on pyhton projects on github that use the pygal libraries
+
+# Getting started with APIs
+Install requests: on terminal "pip install --user requests"
+
