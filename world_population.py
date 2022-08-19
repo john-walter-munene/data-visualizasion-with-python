@@ -1,8 +1,7 @@
 import json
 from tkinter.ttk import Style
 import pygal_maps_world.maps as pwm
-from pygal.style import RotateStyle
-from pygal.style import LightColorizedStyle
+from pygal.style import RotateStyle, LightColorizedStyle
 
 from country_codes import get_country_code
 
@@ -42,8 +41,7 @@ print(len(cc_pops_1), len(cc_pops_2), len(cc_pops_3))
 wm = pwm.World()
 
 # Styling the map
-wm_style = RotateStyle('#336699')
-wm_style = LightColorizedStyle
+wm_style = RotateStyle('#336699', base_style=LightColorizedStyle)
 wm = pwm.World(Style==wm_style)
 
 # Defining the map attributes
